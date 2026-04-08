@@ -1,3 +1,4 @@
+const theme = "escuro";
 const tasks = ["Estudar Git", "Fazer exercício da UFPE"];
 console.log("Minhas tarefas:", tasks);
 function addTask(task) {
